@@ -50,7 +50,7 @@
 .pointer span,
 .title-hover > a:hover
 {
-    background-color:#ec4933;
+    background-color:#c42009;
 }
 
 /*=========== TEXT COLOR ================ */
@@ -109,7 +109,7 @@ nav > ul li:hover a,
 .wanky_pages.light-theme > .mini-fixed li.active a span,
 .title-hover > h3:hover
 {
-    color: #ec4933;
+    color: #c42009;
 }
 
 
@@ -128,5 +128,5 @@ header.mini-fixed > nav > ul > li.active > a::before,
 
 .pointer
 {
-    border-color: #ec4933; 
+    border-color: #c42009; 
 }
